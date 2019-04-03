@@ -1,2 +1,2 @@
 # thatsaltguyfromjimmyneutronengine
-Its a 3d rendering engine with perspective made in python.
+Its a 3d rendering engine with perspective made in python.Requires pygame
